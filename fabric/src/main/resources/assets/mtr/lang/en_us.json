@@ -171,7 +171,7 @@
 	"gui.mtr.arrival_min": "%s min",
 	"gui.mtr.arrival_min_cjk": "%s 分鐘",
 	"gui.mtr.arrival_sec": "%s sec",
-	"gui.mtr.arrival_sec_cjk": "%s 秒",
+	"gui.mtr.arrival_sec_cjk": "%s black",
 	"gui.mtr.automatically_detect_nearby_platform": "Automatically detect nearby platform",
 	"gui.mtr.available": "Available",
 	"gui.mtr.balance": "Balance: $%s",
